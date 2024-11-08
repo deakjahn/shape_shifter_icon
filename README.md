@@ -2,6 +2,8 @@
 
 The package provides three different animated icons that can be used as standalone widgets or inside buttons. It is self-contained, it doesn't rely on online services and repositories — you bundle your icons with your app.
 
+![Screenshot](https://raw.githubusercontent.com/deakjahn/shape_shifter_icon/master/screenshots/screen.gif "Screenshot")
+
 ## Standard animated icon
 
 `SelfAnimatedIcon` encloses a standard Flutter `AnimatedIcon`, its only advantage is that it's self-contained and requires no external animation controller. You just construct it:
