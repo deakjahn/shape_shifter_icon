@@ -2,8 +2,6 @@
 
 The package provides three different animated icons that can be used as standalone widgets or inside buttons. It is self-contained, it doesn't rely on online services and repositories — you bundle your icons with your app.
 
-![Screenshot](https://raw.githubusercontent.com/deakjahn/shape_shifter_icon/master/screenshots/screen.gif "Screenshot")
-
 ## Standard animated icon
 
 `SelfAnimatedIcon` encloses a standard Flutter `AnimatedIcon`, its only advantage is that it's self-contained and requires no external animation controller. You just construct it:
@@ -83,3 +81,9 @@ Don't forget that your file names will be different:
 ```dart
   final assets = List.generate(19, (index) => 'assets/$index.svg.vec');
 ```
+
+### Support
+
+If you like this package, please consider supporting it.
+
+[![buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=📚&slug=deakjahn&button_colour=FF8838&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff')](https://www.buymeacoffee.com/deakjahn)
