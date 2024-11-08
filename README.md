@@ -2,7 +2,7 @@
 
 The package provides three different animated icons that can be used as standalone widgets or inside buttons. It is self-contained, it doesn't rely on online services and repositories — you bundle your icons with your app.
 
-![Screenshot](https://github.com/deakjahn/shape_shifter_icon/blob/master/example/assets/sample/screen.gif "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/deakjahn/shape_shifter_icon/master/example/assets/sample/screen.gif "Screenshot")
 
 ## Standard animated icon
 
