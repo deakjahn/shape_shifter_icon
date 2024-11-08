@@ -1,0 +1,16 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    id="playtopause"
+    width="24px"
+    height="24px">
+    <g
+        id="group"
+        transform="rotate(53.1350456183547 12 12)">
+        <path
+            id="path"
+            d="M 6.229 5.59 L 6.229 10.819 L 19 10.819 L 19 8.458 L 6.229 5.59 M 6.229 13.181 L 6.229 18.41 L 19 15.542 L 19 13.181 L 6.229 13.181"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+</svg>
