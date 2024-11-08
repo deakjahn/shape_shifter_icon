@@ -2,7 +2,7 @@
 
 The package provides three different animated icons that can be used as standalone widgets or inside buttons. It is self-contained, it doesn't rely on online services and repositories — you bundle your icons with your app.
 
-![Screenshot](https://raw.githubusercontent.com/deakjahn/shape_shifter_icon/master/example/assets/sample/screen.gif "Screenshot")
+![Screenshot](https://github.com/deakjahn/shape_shifter_icon/blob/master/example/assets/sample/screen.gif "Screenshot")
 
 ## Standard animated icon
 
@@ -57,7 +57,7 @@ You simply have to pass a list of SVG files representing the individual frames. 
 
 for the 60 fps version.
 
-### Just like the underlying `flutter_svg` package, this package also supports compiling the SVG file into a binary format to achieve smaller size and better loading performance, using (vector_graphics_compiler)[https://pub.dev/packages/vector_graphics_compiler].
+Just like the underlying `flutter_svg` package, this package also supports compiling the SVG file into a binary format to achieve smaller size and better loading performance, using (vector_graphics_compiler)[https://pub.dev/packages/vector_graphics_compiler].
 
 The only difference is that you need to call the `ShapeShifterIcon.compiled()` constructor instead:
 
