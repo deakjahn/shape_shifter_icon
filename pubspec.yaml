@@ -1,6 +1,6 @@
 name: shape_shifter_icon
 description: Fully animated icons.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/deakjahn/shape_shifter_icon
 
 environment:
@@ -22,3 +22,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+funding:
+  - https://buymeacoffee.com/deakjahn
+
+screenshots:
+  - description: 'Examples of the animated icons.'
+    path: screenshots/screen.gif
+
+topics:
+  - flutter
+  - icon
+  - animated
