@@ -35,7 +35,7 @@ SelfAnimatedTwoIcons(
 
 ## Fully animated icon
 
-`ShapeShifterIcon` is, of course, the pièce de resistance. You visti https://shapeshifter.design, create and export a shape shifter animation that morphs an icon into another. These work like the stock `AnimatedIcons`, only that you can have your own and you're not limited to the very few available in that class.
+`ShapeShifterIcon` is, of course, the pièce de resistance. You visit https://shapeshifter.design, create and export a shape shifter animation that morphs an icon into another. These work like the stock `AnimatedIcons`, only that you can have your own and you're not limited to the very few available in that class.
 
 Using it is almost as simple as the ones above:
 
