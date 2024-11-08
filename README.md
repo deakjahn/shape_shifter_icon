@@ -1,5 +1,7 @@
 # Shape Shifter Icon
 
+[![pub package](https://img.shields.io/pub/v/shape_shifter_icon.svg)](https://pub.dev/packages/shape_shifter_icon)
+
 The package provides three different animated icons that can be used as standalone widgets or inside buttons. It is self-contained, it doesn't rely on online services and repositories — you bundle your icons with your app.
 
 ## Standard animated icon
@@ -86,4 +88,4 @@ Don't forget that your file names will be different:
 
 If you like this package, please consider supporting it.
 
-[![buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=📚&slug=deakjahn&button_colour=FF8838&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff')](https://www.buymeacoffee.com/deakjahn)
+<a href="https://www.buymeacoffee.com/deakjahn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="60" width="217"></a>
