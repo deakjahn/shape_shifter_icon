@@ -28,7 +28,7 @@ funding:
 
 screenshots:
   - description: 'Examples of the animated icons.'
-    path: screenshots/screen.gif
+    path: screenshots/screen.png
 
 topics:
   - flutter
