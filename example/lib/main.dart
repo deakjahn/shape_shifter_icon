@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     super.initState();
-    assets = List.generate(19, (index) => 'assets/$index.svg.vec');
+    assets = List.generate(61, (index) => 'assets/$index.svg.vec');
   }
 
   @override

@@ -1,0 +1,35 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    id="searchtoclose"
+    width="24px"
+    height="24px">
+    <g
+        id="oval_container"
+        transform="translate(-5.679041086207399 -5.679041086207399)">
+        <path
+            id="oval"
+            d="M 13.389 13.389 C 15.537 11.241 15.537 7.759 13.389 5.611 C 11.241 3.463 7.759 3.463 5.611 5.611 C 3.463 7.759 3.463 11.241 5.611 13.389 C 7.759 15.537 11.241 15.537 13.389 13.389 Z"
+            fill="none"
+            stroke="#000000"
+            stroke-width="1.8"
+            stroke-dasharray="0,34.5619958982284"
+            stroke-dashoffset="34.5619958982284"/>
+    </g>
+    <path
+        id="ne_stem"
+        d="M 18 6 L 6 18"
+        fill="none"
+        stroke="#000000"
+        stroke-width="1.8"
+        stroke-dasharray="2.141496577720929,14.829066170756214"
+        stroke-dashoffset="2.141496577720929"/>
+    <path
+        id="nw_stem"
+        d="M 6 6 L 20 20"
+        fill="none"
+        stroke="#000000"
+        stroke-width="1.8"
+        stroke-dasharray="16.00134849002381,3.7976413831995224"
+        stroke-dashoffset="18.350825918943443"/>
+</svg>

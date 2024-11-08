@@ -49,7 +49,7 @@ ShapeShifterIcon(
 );
 ```
 
-You simply have to pass a list of SVG files representing the individual frames. Shape Shifter exports to 30 fps (10 files) and 60 fps (19 files). Naming them is up to you, you can put each icon into a separate folder, or just name them `iconname_framenumber.svg`, however you please. Just create a list of the names and pass it to the icon. It might be as simple as:
+You simply have to pass a list of SVG files representing the individual frames. Shape Shifter exports to 30 fps and 60 fps. Naming them is up to you, you can put each icon into a separate folder, or just name them `iconname_framenumber.svg`, however you please. Just create a list of the names and pass it to the icon. It might be as simple as:
 
 ```dart
   final assets = List.generate(19, (index) => 'assets/$index.svg');
