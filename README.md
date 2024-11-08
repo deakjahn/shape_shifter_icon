@@ -11,9 +11,9 @@ The package provides three different animated icons that can be used as standalo
 ```dart
 SelfAnimatedIcon(
   [key: ...,]
-  icon: one of the `AnimatedIcons` constants,
+  icon: one of the AnimatedIcons constants,
   state: a boolean,
-  /// optional duration, defaults to `kThemeAnimationDuration`
+  /// optional duration, defaults to kThemeAnimationDuration
   duration: const Duration(seconds: 1)
 );
 ```
@@ -25,10 +25,10 @@ SelfAnimatedIcon(
 ```dart
 SelfAnimatedTwoIcons(
   [key: ...,]
-  offIcon: an `Icon`,
-  onIcon: another `Icon`,
+  offIcon: an Icon,
+  onIcon: another Icon,
   state: a boolean,
-  /// optional duration, defaults to `kThemeAnimationDuration`
+  /// optional duration, defaults to kThemeAnimationDuration
   duration: const Duration(seconds: 1)
 );
 ```
@@ -44,7 +44,7 @@ ShapeShifterIcon(
   [key: ...,]
   state: a boolean,
   assets: a list of asset names,
-  /// optional duration, defaults to `kThemeAnimationDuration`
+  /// optional duration, defaults to kThemeAnimationDuration
   duration: const Duration(seconds: 1)
 );
 ```
@@ -57,7 +57,7 @@ You simply have to pass a list of SVG files representing the individual frames. 
 
 for the 60 fps version.
 
-Just like the underlying `flutter_svg` package, this package also supports compiling the SVG file into a binary format to achieve smaller size and better loading performance, using (vector_graphics_compiler)[https://pub.dev/packages/vector_graphics_compiler].
+Just like the underlying `flutter_svg` package, this package also supports compiling the SVG file into a binary format to achieve smaller size and better loading performance, using [vector_graphics_compiler](https://pub.dev/packages/vector_graphics_compiler).
 
 The only difference is that you need to call the `ShapeShifterIcon.compiled()` constructor instead:
 
@@ -66,7 +66,7 @@ ShapeShifterIcon.compiled(
   [key: ...,]
   state: a boolean,
   assets: a list of compiled asset names,
-  /// optional duration, defaults to `kThemeAnimationDuration`
+  /// optional duration, defaults to kThemeAnimationDuration
   duration: const Duration(seconds: 1)
 );
 ```
