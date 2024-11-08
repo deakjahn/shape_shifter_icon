@@ -82,7 +82,7 @@ Don't forget that your file names will be different:
   final assets = List.generate(19, (index) => 'assets/$index.svg.vec');
 ```
 
-### Support
+# Support
 
 If you like this package, please consider supporting it.
 
