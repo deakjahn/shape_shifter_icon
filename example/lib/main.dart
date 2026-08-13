@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:shape_shifter_icon/shape_shifter_icon.dart';
 
 void main() {
